@@ -1,0 +1,110 @@
+{
+   "checksum": "12e1fb7a8533d4db919120e16b7cf855",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13207114373324434",
+               "date_last_used": "0",
+               "guid": "19cdbb25-df26-49a6-b776-71f3dd6ad36d",
+               "id": "10",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.asus.com/"
+            }, {
+               "date_added": "13207114373339616",
+               "date_last_used": "0",
+               "guid": "fe0dfefa-a242-4b33-939f-c42897155c8f",
+               "id": "11",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://account.asus.com/"
+            } ],
+            "date_added": "13289290046566725",
+            "date_last_used": "0",
+            "date_modified": "13289290046566725",
+            "guid": "6134c041-e102-455e-94b3-09924d174714",
+            "id": "9",
+            "name": "ASUS E-Service",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13323031964507568",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13323031964507575",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13218737854330422",
+            "date_last_used": "0",
+            "guid": "b150cbb9-03d0-42d8-9853-207c70a26262",
+            "id": "5",
+            "name": "101 - Blockchain Basic Course for Engineer",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.blockdegree.org/blockchain-basic"
+         }, {
+            "date_added": "13225483081821940",
+            "date_last_used": "0",
+            "guid": "5119f5f2-ce63-4f4d-818e-19d6c1731de2",
+            "id": "6",
+            "name": "NPTEL :: Computer Science and Engineering - NOC:Problem Solving through Programming in C",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nptel.ac.in/courses/106/105/106105171/"
+         }, {
+            "date_added": "13157837512466935",
+            "date_last_used": "0",
+            "guid": "e335c395-4677-4e30-8e24-4a9f7395b1b8",
+            "id": "7",
+            "name": "www.instamp3.live",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.instamp3.live/"
+         }, {
+            "date_added": "13227829256784270",
+            "date_last_used": "0",
+            "guid": "32360c61-bc6c-48f5-ac73-a6f1eba3a055",
+            "id": "8",
+            "name": "Bangtan Boys New Tab - Chrome Web Store",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/bangtan-boys-new-tab/bhkblpdppggecefmopahbcfaicbohakc/related"
+         } ],
+         "date_added": "13323031964507583",
+         "date_last_used": "0",
+         "date_modified": "13227829256784270",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKzzR06EAQAAKg4QABgBIAAoBjAAOABAABIAIAEqGEtjc3lDWmV5dmo4NERWYkRaNlI0MEE9PaAGDBKnAQgJEqIBChxzQkEvNC80VmlxeXY2MklLREt4bjZkTmFGbVU9EiQ2MTM0YzA0MS1lMTAyLTQ1NWUtOTRiMy0wOTkyNGQxNzQ3MTQYACAAKAAw5M7Nte8vOO6m8++GMEDupvPvhjBKHDZFb1VhWnBkQy9WaUJiK3paZ3NkQmpQVzBTQT1aHiIcTFRGcnc0NUFNbDhwNkcwL3I5Mk5sQjNJVTRnPWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDE1NjgzMGZjLWU0OTctNWFmYi1hMWVlLWJiZTg0NjAyMjk2MhgAIAAoADCygpvcojA4me3x74YwQJnt8e+GMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNTE3NzIwOGEtMjc3Yy01NzQwLTljNmQtNjhmOWZlYzE2ZjQyGAAgACgAMLKCm9yiMDi57fHvhjBAue3x74YwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgGEqIBChxaMlVOdWdMRFdLbmVxbi9NVVFCeEpNVlRFOVk9EiQ1MTE5ZjVmMi1jZTYzLTRmNGQtODE4ZS0xOWQ2YzE3MzFkZTIYACAAKAAw5Ouo840uOLPv8e+GMECz7/HvhjBKHHhDMXJZLzBtWm5BQkF4T2tVSm5TaVZrNFBXZz1aHiIcWUR5ZGltUUZVbTRQcGlrSHlkbW5YcnErcXVZPWV/QpchEqgBCAgSowEKHGQ4bXl6OTFvR1VLajd3MlJmTTc5aDFaQ2R0dz0SJDMyMzYwYzYxLWJjNmMtNDhmNS1hYzczLWE2ZjFlYmEzYTA1NRgAIAAoADDl66jzjS440u/x74YwQNLv8e+GMEocdHF0RUR1TmlsdUR3cDE4ZzFHQVVsM3NPaDhvPVofIh2sVERNRjFYR0tIVmFaWFROMS8vMTRxOVQvS0g4PWUAH0dbEqcBCAUSogEKHEJNeWdZRVFZcHpIZS9QdGJmM0NocTU0TU9jcz0SJGIxNTBjYmI5LTAzZDAtNDJkOC05ODUzLTIwN2M3MGEyNjI2MhgAIAAoADDj66jzjS449O7x74YwQPTu8e+GMEocVHpqa21pY3FCTDk4NTlJdys0bTF5TU1tZFlzPVoeIhxHZnZzY3o1NW1DOGoyeGd3YmRDSlJsLzhkTUU9ZQAAAAASpwEIBxKiAQocNkNQQnIzT0xnQ1dEaExDVlU2RVd3Uy9ZSjJFPRIkZTMzNWMzOTUtNDY3Ny00ZTMwLThlMjQtNGE5ZjczOTViMWI4GAAgACgAMOLrqPONLji27vHvhjBAtu7x74YwShx3L1lCaEJLTGp0QkgwNk5tK2ZJdTd4QXk0bzg9Wh4iHGZkZFNtZ21TSmg4b091dzJxVDNaREVNVWZyOD1lAAAAABKoAQgLEqMBChw3bkxZL3piaGcvQlVsWEQ2NWozaUZ3dHJscEE9EiRmZTBkZmVmYS1hMjQyLTRiMzMtOTM5Zi1jNDI4OTcxNTVjOGYYACAAKAAw5M7Nte8vOI6n8++GMECOp/PvhjBKHEU3ZkRIS2JSSjlWaXlkSm5BUWZpVWFQaE1PYz1aHyIduEdyb0R4ZmZkZXo3Q0FzbkQwblRlbDI3SDlMUT1lAAAAABKnAQgKEqIBChx6TExTM2JTK3dwai8xUWpDMWJJaVFmVVIwYzQ9EiQxOWNkYmIyNS1kZjI2LTQ5YTYtYjc3Ni03MWYzZGQ2YWQzNmQYACAAKAAw5M7Nte8vOM+m8++GMEDPpvPvhjBKHFMydGxFM2pJYi9GMXF0N0ZaUGhpT0dNSWJ1az1aHiIccHcxcHBSTzBYUnVqWTR5bGY3ZHNodGlHdXUwPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDFlZGIyNDFjLWMwZTgtNTZkZi05YzQyLTMwYzUwZDY4N2EzYRgAIAAoADCygpvcojA4lu7x74YwQJbu8e+GMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
